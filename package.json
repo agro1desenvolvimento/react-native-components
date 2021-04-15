@@ -2,8 +2,8 @@
   "name": "@agro1desenvolvimento/react-native-components",
   "version": "1.0.1",
   "license": "MIT",
-  "main": "dist/index.ts",
-  "types": "dist/index.ts.d",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/*"
   ],
