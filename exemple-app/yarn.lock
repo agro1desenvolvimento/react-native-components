@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@agro1desenvolvimento/react-native-components@^1.0.1":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@agro1desenvolvimento/react-native-components/1.0.1/d4df69d8c982d3e924876d6a5fbc7658c185a51e41a6b5e17df428780fc9879b#f8012533d3635880646d0de1a8a4bd513e8b9687"
-  integrity sha512-8m2k6o/qRt3ueG3d4p9msqbbsAw9lvL8+Qx5wYzkxsGRhm6BrSadlV9Ve23TshGxXvovR0NH8yV65Qj2+ppftA==
+"@agro1desenvolvimento/react-native-components@^1.0.2":
+  version "1.0.2"
+  resolved "https://npm.pkg.github.com/download/@agro1desenvolvimento/react-native-components/1.0.2/bfbd26edcaa649b20f2104917298a7078e6f3b0381f670e79a28bbde664ac728#c11c51be3f38f06adf50cb3650e54a35970995aa"
+  integrity sha512-Y4NrrglhCs7rkI3ym6e/nThSkqv2JDPu1wzhZCjpNDgaP6uyIyRhB/6/17+RV6cBDUgr3Bhp2ky9Hnu0Qx0Efw==
 
 "@babel/code-frame@7.12.11":
   version "7.12.11"

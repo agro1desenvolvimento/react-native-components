@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@agro1desenvolvimento/react-native-components": "^1.0.1",
+    "@agro1desenvolvimento/react-native-components": "^1.0.2",
     "react": "17.0.1",
     "react-native": "0.64.0",
     "react-native-elements": "^3.3.2",
