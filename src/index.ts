@@ -1,4 +1,4 @@
-import helpers from '@rneui/base/dist/helpers';
+import * as helpers from '@rneui/base/dist/helpers';
 
 export * from '@rneui/themed';
 
